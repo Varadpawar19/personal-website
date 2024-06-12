@@ -60,7 +60,7 @@ body {
     }
   
     .name {
-      font-size: 3em; /* Adjust font size for smaller screens */
+      font-size: 3.3em; /* Adjust font size for smaller screens */
     }
   
     .info {
@@ -83,5 +83,3 @@ body {
   .media a i:hover {
     color: #3c9aff; /* Change to your desired color */
   }
-
-  
