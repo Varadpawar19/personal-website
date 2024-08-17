@@ -12,7 +12,7 @@ body {
 
   .profile-picture {
     align-items: center;
-    width: 18%;
+    width: 16%;
     height: 100%;
     border-radius: 50%; /* Circular frame */
   }
